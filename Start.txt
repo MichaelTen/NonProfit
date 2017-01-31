@@ -1,4 +1,4 @@
-This is a model for a nonprofit social media site. 
+This is a start of model for a nonprofit social media site. 
 
 This is meant to become the Netflix of social media. 
 
