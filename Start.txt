@@ -7,3 +7,5 @@ This site is meant to replace Reddit, Twitter, Facebook, LinkedIn, and Instagram
 This site might have self serve advertising. Users could pay a small fee to not see advertising. 
 
 Profits could be donated to charities voted upon by the user base, and reinvested in the development of new features. 
+
+Please contribute to, watch, star, and fork this project as necessary. Thank you! 
