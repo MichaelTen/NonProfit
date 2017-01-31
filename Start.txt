@@ -11,3 +11,6 @@ Profits could be donated to charities voted upon by the user base, and reinveste
 Please contribute to, watch, star, and fork this project as necessary. Thank you! 
 
 https://en.wikipedia.org/wiki/Nonprofit_organization
+
+Would it be better if this were setup as a benefit corporation? 
+https://en.wikipedia.org/wiki/Benefit_corporation
